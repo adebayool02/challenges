@@ -3,6 +3,7 @@
     margin:0;
     box-sizing: border-box;
     padding: 0;
+
 }
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
 body{
@@ -23,7 +24,7 @@ body{
     padding:70px;
     width: 70%;
     min-height:55vh;
-    border-radius: 10px;
+    border-radius: 10.1px;
 }
 .flex-box{
     justify-content: space-around;
